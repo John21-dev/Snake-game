@@ -1,4 +1,4 @@
 # Snake-game
 The classic snake game using JavaScript and HTML.
 
-![snake-game](https://user-images.githubusercontent.com/66877991/193533878-315f0185-fe5b-4f7e-ba1e-82932e296a33.png)
+![snake](https://user-images.githubusercontent.com/66877991/193541792-71819146-1cb7-4064-b7c3-891581e85754.png)
